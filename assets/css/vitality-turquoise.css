@@ -8,6 +8,13 @@ body {
   height: 100%;
 }
 
+julie-image {
+height: 85vh;
+    background-size: cover !important;
+        padding: 0px;
+}
+
+
 .logo {
 padding: 50px 100px;
 width:50%;
